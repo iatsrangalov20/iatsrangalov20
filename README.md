@@ -1,16 +1,24 @@
-### Hi there 👋
+<h1>Hello, there!👋  My name is Ivan Tsrangalov!</h1>
 
-<!--
-**iatsrangalov20/iatsrangalov20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<hr>
 
-Here are some ideas to get you started:
+<h2>About Me: </h2>
+<ul>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <li>💻 I'm currently learning C++ and C#.</li>
+  <li>Country: Bulgaria</li>
+  <li>City: Burgas</li>
+  <li>I speak Bulgarian, English, a little German and a little Spanish.</li>
+
+</ul>
+
+<hr>
+
+<h2>Contact Me: </h2>
+<ul>
+  <li>📞 </li>
+</ul>
+
+<hr>
+
+<h1>"Anyone who lives within their means suffers from a lack of imagination." -Oscar Wilde</h1>
