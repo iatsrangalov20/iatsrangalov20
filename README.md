@@ -1,6 +1,6 @@
 <h1>Hello, there!👋  My name is Ivan Tsrangalov!</h1>
 
-<img src = "https://hits.seeyoufarm.com/api/count/keep/badge.svg?url=https%3A%2F%2Fgithub.com%2Fiatsrangalov20&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visitors&edge_flat=false" alt = "badge">
+<a href = "https://hits.seeyoufarm.com/"><img src = "https://hits.seeyoufarm.com/api/count/keep/badge.svg?url=https%3A%2F%2Fgithub.com%2Fiatsrangalov20&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visitors&edge_flat=false" alt = "badge"></a>
 
 <hr>
 
@@ -19,17 +19,17 @@
 
 ### Contact Me:
 
-<code><a href = "https://www.instagram.com/ivan.tsrangalov/"><img alt="Instagram" width="26px" src="https://images-na.ssl-images-amazon.com/images/G/01/flojo/test-images-RCXMF/Instagram-glyph-logo._CB468386503_.png" ></code>
+<code><a href = "https://www.instagram.com/ivan.tsrangalov/"><img alt="Instagram" width="26px" src="https://images-na.ssl-images-amazon.com/images/G/01/flojo/test-images-RCXMF/Instagram-glyph-logo._CB468386503_.png" ></code></a>
 <code><img alt="Facebook" width="26px" src="https://i.pinimg.com/originals/b7/63/69/b763699fd1fa3bfb374442593ae642e1.png" ></code>
 
 <hr>
 
 ### Languages and Tools:
 
-<code><img alt="CPP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" ></code>
-<code><img alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
-<code><img alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" ></code>
-<code><img alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" ></code>
+<code><a href = "https://bg.wikipedia.org/wiki/C%2B%2B"><img alt="CPP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" ></a></code>
+<code><a href = "https://bg.wikipedia.org/wiki/Microsoft_Visual_Studio"><img alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></a></code>
+<code><a href = "https://bg.wikipedia.org/wiki/HTML"><img alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" ></a></code>
+<code><a href = "https://bg.wikipedia.org/wiki/CSS"><img alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" ></a></code>
   
 <hr>
   <h1>"Anyone who lives within their means suffers from a lack of imagination." -Oscar Wilde</h1>
