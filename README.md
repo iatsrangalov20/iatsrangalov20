@@ -19,7 +19,7 @@
 
 ### Contact Me:
 
-<code><img alt="Instagram" width="26px" src="https://www.instagram.com/ivan.tsrangalov/" ></code>
+<code><img alt="Instagram" width="26px" src="https://i.pinimg.com/originals/b7/63/69/b763699fd1fa3bfb374442593ae642e1.png" ></code>
 <code><img alt="Facebook" width="26px" src="https://i.pinimg.com/originals/b7/63/69/b763699fd1fa3bfb374442593ae642e1.png" ></code>
 
 <hr>
