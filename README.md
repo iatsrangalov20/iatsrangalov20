@@ -13,7 +13,7 @@
   <li>💻 I'm currently learning C++ and C#.</li>
   <li>Country: Bulgaria</li>
   <li>City: Burgas</li>
-  <li>I speak Bulgarian, English, a little German.</li>
+  <li>I speak Bulgarian, English and a little German.</li>
 
 <hr>
 
