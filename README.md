@@ -19,7 +19,7 @@
 
 ### Contact Me:
 
-<code><img alt="Instagram" width="26px" src="https://images-na.ssl-images-amazon.com/images/G/01/flojo/test-images-RCXMF/Instagram-glyph-logo._CB468386503_.png" ></code>
+<code><a href = "https://www.instagram.com/ivan.tsrangalov/"><img alt="Instagram" width="26px" src="https://images-na.ssl-images-amazon.com/images/G/01/flojo/test-images-RCXMF/Instagram-glyph-logo._CB468386503_.png" ></code>
 <code><img alt="Facebook" width="26px" src="https://i.pinimg.com/originals/b7/63/69/b763699fd1fa3bfb374442593ae642e1.png" ></code>
 
 <hr>
