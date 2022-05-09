@@ -6,7 +6,6 @@
 <p>Burgas, Bulgaria 🌊</p>
 <p>I'm currently learning C++ and JavaScript. 💻</p>
 <p>I play basketball and volleyball. 🏀</p>
-<p>5'10 🚀</p>
 
 <h2>Contact Me</h2>
 
