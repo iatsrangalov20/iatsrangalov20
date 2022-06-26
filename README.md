@@ -5,7 +5,6 @@
 <h2>About Me</h2>
 <p>Burgas, Bulgaria 🌊</p>
 <p>I'm currently learning C++ and JavaScript. 💻</p>
-<p>I play basketball and volleyball. 🏀</p>
 
 <h2>Contact Me</h2>
 
