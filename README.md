@@ -28,6 +28,10 @@
 <div>
   <a href = "https://www.credly.com/earner/earned/badge/f4ff0670-deaf-4518-ac57-4a47209780fe"><img src = "https://images.credly.com/size/340x340/images/fd092703-61db-4e9f-9c7c-2211d44ca87d/MOS_Word.png" height = 250 width = 260></a>
   
+  <a href = "https://www.credly.com/earner/earned/badge/8895761a-988d-42c4-8f0c-e226f7796e64"><img src = "https://images.credly.com/size/340x340/images/d0790dc7-5127-4262-a492-1b60030b0114/MOS_Excel.png" height = 250 width = 260></a>
+  
+  <a href = "https://www.credly.com/earner/earned/badge/12bce4ce-a60d-42dd-9c8b-f58aea73d97c"><img src = "https://images.credly.com/size/340x340/images/04e8034c-81f5-4f7f-ab23-e8b428c31ce9/ITE.png" height = 250 width = 260></a>
+  
   <a href = "https://www.credly.com/earner/earned/badge/706f41dc-4c11-4272-af01-137c528bf313"><img src = "https://images.credly.com/size/340x340/images/ef99b79e-fd54-4eb5-b2a4-bf17e92a4837/ITS-Badges_JavaScript_1200px.png" height = 250 width = 260></a>
   
   <a href = "https://www.credly.com/earner/earned/badge/671135b9-9b31-4b76-8206-fc5ebc878fc1"><img src = "https://images.credly.com/size/340x340/images/241488f4-9110-41aa-804e-51a8f8ba430d/MTA-Introduction_to_Programming_Using_HTML_and_CSS-600x600.png" height = 250 width = 260></a>
