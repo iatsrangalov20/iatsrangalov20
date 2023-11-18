@@ -1,6 +1,6 @@
 <h1>Hello, there!👋  My name is Ivan Tsrangalov!</h1>
 
-<img align="right" height="250" width="325" alt="" src="https://media2.giphy.com/media/zOvBKUUEERdNm/200.gif" />
+<img align="right" height="300" width="430" alt="" src="https://i.giphy.com/media/syEfLvksYQnmM/giphy.webp" />
 
 <h2>About Me</h2>
 <p>Burgas, Bulgaria 🌊</p>
@@ -14,10 +14,13 @@
 
 <h2>Programming Languages</h2>
 <div>
-  <img src = "https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" height = 50 width = 40>
+  <img src = "https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" height = 45 width = 35>
   <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/220px-HTML5_logo_and_wordmark.svg.png" height = 50 width = 45>
   <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/800px-CSS3_logo_and_wordmark.svg.png" height = 50 width = 45>
-  <img src = "https://pragmatic.bg/wp-content/uploads/2015/03/js3.png" height = 55 width = 55>
+  <img src = "https://pragmatic.bg/wp-content/uploads/2015/03/js3.png" height = 50 width = 50>
+  <img src = "https://progressbg.net/wp-content/uploads/2015/06/csharp.png" height = 45 width = 45>
+  <img src = "https://cdn-images-1.medium.com/v2/resize:fit:1200/1*5-aoK8IBmXve5whBQM90GA.png" height = 45 width = 45>
+  <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png" height = 45 width = 45>
 </div>
 
 <h2>Badges</h2>
