@@ -9,7 +9,7 @@
 <h2>Contact Me</h2>
 
 <div>
-  <a href = "https://www.instagram.com/ivan.tsrangalov/"><img src = "https://davidmeessen.com/wp-content/uploads/2020/09/ew-instagram-logo-transparent-related-keywords-logo-instagram-vector-2017-115629178687gobkrzwak.png" height = 35 with = 35></a>
+  <a href = "https://www.instagram.com/ivan.tsrangalov/"><img src = "https://www.unipile.com/wp-content/uploads/2022/09/logo_instagram.png" height = 35 with = 35></a>
 </div>
 
 <h2>Programming Languages</h2>
